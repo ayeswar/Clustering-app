@@ -1,1 +1,1 @@
-Place your scaler.joblib, chosen_model.joblib, pca2.joblib here.
+Place your scaler.joblib, chosen_model.joblib, pca2.joblib inside this folder.
